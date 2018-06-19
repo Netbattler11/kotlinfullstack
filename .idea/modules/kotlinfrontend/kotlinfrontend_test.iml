@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JavaScript " useProjectSettings="false">
+        <productionOutputPath>$MODULE_DIR$/../../../kotlinfrontend/build/classes/kotlin/main/kotlinfrontend.js</productionOutputPath>
+        <testOutputPath>$MODULE_DIR$/../../../kotlinfrontend/build/classes/kotlin/test/kotlinfrontend_test.js</testOutputPath>
+        <compilerSettings />
+        <compilerArguments>
+          <option name="outputFile" value="$MODULE_DIR$/../../../kotlinfrontend/build/classes/kotlin/test/kotlinfrontend_test.js" />
+          <option name="noStdlib" value="true" />
+          <option name="metaInfo" value="true" />
+          <option name="target" value="v5" />
+          <option name="main" value="call" />
+          <option name="languageVersion" value="1.2" />
+          <option name="apiVersion" value="1.2" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+</module>
